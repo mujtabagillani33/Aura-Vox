@@ -1,0 +1,8 @@
+streamlit>=1.35
+requests>=2.31
+google-generativeai>=0.7.0
+pydub>=0.25.1
+numpy>=1.26
+# Optional but heavy (loads Torch): comment out if you want faster startup
+sentence-transformers>=2.7.0
+torch>=2.2.0
